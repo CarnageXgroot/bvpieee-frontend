@@ -6569,6 +6569,8 @@ button.bg-dark:focus {
 
 .rounded-pill {
   border-radius: 50rem !important;
+   height: 30vh;   
+/*  changed by mohit khatri specify height of all images only  */
 }
 
 .rounded-0 {
